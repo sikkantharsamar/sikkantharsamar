@@ -3,7 +3,7 @@
 <h1>Plot Twist: I Know What I'm Doing 😄</h1>
 
 ### 📚 About Me
-Undergraduate student studying **Electronics and Computer Science**. I'm someone who loves to explore and learn fascinating things. Always curious and passionate about diving into new technologies and concepts.
+Undergraduate student studying **Electronics and Computer Science**. I'm someone who loves to explore and learn fascinating things. Curious about diving into new technologies and concepts.
 
 ---
 
