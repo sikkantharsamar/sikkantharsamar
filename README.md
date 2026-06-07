@@ -1,6 +1,6 @@
 ## Hey, [Samar Sikkanthar here!](https://www.linkedin.com/in/samar-sikkanthar-48802b2b2) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<h1>Welcome to my Digital World..</h1>
+<h1>Plot Twist: I Know What I'm Doing 😄</h1>
 
 ### 📚 About Me
 Undergraduate student studying **Electronics and Computer Science**. I'm someone who loves to explore and learn fascinating things. Always curious and passionate about diving into new technologies and concepts.
