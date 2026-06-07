@@ -18,6 +18,8 @@
 
 Undergraduate student in **Electronics and Computer Science**, driven by curiosity and a genuine passion for understanding how things work — from low-level hardware to high-level software. I enjoy exploring new technologies and continuously refining my craft.
 
+<br>
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sikkantharsamar&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
 
 
