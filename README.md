@@ -5,13 +5,9 @@
 ### 📚 About Me
 Undergraduate student studying **Electronics and Computer Science**. I'm someone who loves to explore and learn fascinating things. Curious about diving into new technologies and concepts.
 
----
-
-## 📊 GitHub Streak
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sikkantharsamar&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
 
----
 
 ## 🔗 Connect With Me
 
@@ -19,14 +15,12 @@ Undergraduate student studying **Electronics and Computer Science**. I'm someone
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sikkantharsamar" alt="sikkantharsamar" /> </p>
 
----
 
 ## 💻 Programming Languages
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/> 
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
 
----
 
 ## 🛠️ Tools & Technologies I Use
 
@@ -34,7 +28,6 @@ Undergraduate student studying **Electronics and Computer Science**. I'm someone
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 
----
 
 ## 🎯 My Interests
 
@@ -43,13 +36,9 @@ Undergraduate student studying **Electronics and Computer Science**. I'm someone
 - 💡 Problem Solving
 - 🌐 Open Source Contributions
 
----
-
 
 ## 🚀 Currently Learning
 
 Exploring new technologies and enhancing my skills in programming and computer science concepts.
 
----
 
-**Feel free to explore my repositories and don't hesitate to reach out! Happy coding! 🎉**
