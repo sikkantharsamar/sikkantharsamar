@@ -1,4 +1,4 @@
-## Hey, [Samar Sikkanthar here!](https://www.linkedin.com/in/samar-sikkanthar-48802b2b2) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, [Samar Sikkanthar](https://www.linkedin.com/in/samar-sikkanthar-48802b2b2)here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Plot Twist: I Know What I'm Doing 😄</h1>
 
