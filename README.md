@@ -45,13 +45,6 @@ Undergraduate student studying **Electronics and Computer Science**. I'm someone
 
 ---
 
-## 📈 GitHub Stats
-
-![Samar's github stats](https://github-readme-stats.vercel.app/api?username=sikkantharsamar&show_icons=true&theme=vision-friendly-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sikkantharsamar&layout=compact&theme=vision-friendly-dark)
-
----
 
 ## 🚀 Currently Learning
 
